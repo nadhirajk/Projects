@@ -10,4 +10,7 @@ will default on a loan, given information about the borrower’s financial circu
 The report describes the data cleaning, processing, and analysis processes. Our final model was a random forest trained on a weighted
 subset of the training data.
 
+Poker Hand Strength Project:
+My partner and I's project for our Discrete Mathematical Modelling class at Claremont Graduate University. We built a model for the game of Texas Hold'Em Poker and implementented, analysed, and compared algorithms to evaluate the strength of a poker hand at various stages of the game.
+
 See also: (in progress) https://github.com/nadhirajk/Thesis
